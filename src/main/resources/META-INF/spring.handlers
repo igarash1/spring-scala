@@ -1,1 +1,1 @@
-http\://www.springframework.org/schema/scala/util=org.psnively.scala.beans.factory.xml.UtilNamespaceHandler
+http\://www.springframework.org/schema/scala/util=org.springframework.scala.beans.factory.xml.UtilNamespaceHandler
