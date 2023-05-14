@@ -1,3 +1,7 @@
+# *Under development*
+I got in touch with Paul Snively, [who took over the project from Pivotal](https://github.com/spring-attic/spring-scala) and started [a new project by darcs](https://hub.darcs.net/psnively/spring-scala), 
+and turns out it's been not maintained anymore for many years. I'm trying to bring the system current in this repository, but there should be still dozen issues to be able to use them. Any contribution would be appreciated and feel free to open issues/PRs!
+
 # Spring Scala
 
 The goal of Spring Scala is to make it easier to use the Spring framework in Scala.
