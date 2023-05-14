@@ -1,8 +1,6 @@
-# Spring Scala is no longer actively maintained by VMware, Inc.
+# Spring Scala
 
 The goal of Spring Scala is to make it easier to use the Spring framework in Scala.
-
-**Note that Spring Scala is currently not maintained by Pivotal, as such there will be no further releases nor bug fixes coming from Pivotal.**
 
 Currently, the two main areas of focus are:
 
